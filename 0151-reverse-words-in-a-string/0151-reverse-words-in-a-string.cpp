@@ -21,7 +21,7 @@ public:
                temp += s[left];
            }
            else{
-               if(s[left - 1] == ' '){ //edge case: if there is a space after last word, it couldn't be resolved here!
+               if(s[left - 1] == ' '){ // eliminating multiple spaces between words
                    left++;
                    continue;
                }
