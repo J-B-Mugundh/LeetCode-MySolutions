@@ -14,7 +14,7 @@ public:
             if(s2.find(num) == s2.end())
                 temp1.push_back(num);
         }
-        sort(temp1.begin(), temp1.end());
+        //sort(temp1.begin(), temp1.end());
         ans.push_back(temp1);
 
         vector<int> temp2;
@@ -22,7 +22,7 @@ public:
             if(s1.find(num) == s1.end())
                 temp2.push_back(num);
         }
-        sort(temp2.begin(), temp2.end());
+        //sort(temp2.begin(), temp2.end());
         ans.push_back(temp2);
 
         return ans;
