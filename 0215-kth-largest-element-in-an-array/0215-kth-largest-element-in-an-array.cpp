@@ -14,15 +14,10 @@ public:
     int findKthLargest(vector<int> &nums, int k){
         priority_queue<int, vector<int>, greater<int>> pq;
 
-        for(int num : nums){
-            if(pq.size() < k)
-                pq.push(num); // Storing the first k largest elements
-            else{
-                if(pq.top() < num){  // Do it only if top is less than num. If top is greater than num, there is no need to add it into min heap as we already have the current k largest elements
-                    pq.pop();
-                    pq.push(num);
-                }
-            }
+        for(int i = 0; i < nums.size(); i++){
+            pq.push(nums[i]);
+            if(pq.size() > k)
+                pq.pop();
         }
 
         return pq.top();
