@@ -21,7 +21,7 @@ public:
         int rightmost = -1;
         for (int i = n - 1; i > break_pt; i--) {
             if (s[i] > s[break_pt]) {
-                if (rightmost == -1 || s[i] < s[rightmost]) {
+                if (rightmost == -1 || s[i] < s[rightmost]) { // edge case
                     rightmost = i;
                 }
             }
