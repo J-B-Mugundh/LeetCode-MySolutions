@@ -1,17 +1,14 @@
 class Solution {
 public:
     int numIdenticalPairs(vector<int>& nums) {
-        unordered_map<int, int> mp;
-        for(int n : nums)
-            mp[n]++;
-        
-        int sum = 0;
-
-        for(auto num : mp){
-            int n = num.second;
-            sum += n * (n - 1) / 2;
+        unordered_map<int, int> counts;
+        int ans = 0;
+        // whenever we encounter a number, it can form k good pairs with previously traversed numbers, where k is the number of times we have seen the number previously.
+        for (int num: nums) {
+            ans += counts[num];
+            counts[num]++;
         }
-
-        return sum;
+        
+        return ans;
     }
 };
