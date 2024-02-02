@@ -21,7 +21,7 @@ public:
                temp += s[left];
            }
            else{
-               if(s[left - 1] == ' '){ // eliminating multiple spaces between words
+               if(s[left - 1] == ' '){ //edge case
                    left++;
                    continue;
                }
