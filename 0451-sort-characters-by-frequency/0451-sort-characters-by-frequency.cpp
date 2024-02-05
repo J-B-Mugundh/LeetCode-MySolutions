@@ -1,25 +1,26 @@
 class Solution {
 public:
-    static bool compare(char a, char b, unordered_map<char, int>& char_freq) {
-            if (char_freq[a] != char_freq[b]) {
-                return char_freq[a] > char_freq[b];
-            } else {
-                return a < b;
-            }
-    }
-
     string frequencySort(string s) {
-        // Create a hash map to store the frequency of each character
-        unordered_map<char, int> char_freq;
-        for (char c : s) {
-            char_freq[c]++;
+        if (s.length() == 1)
+            return s;
+
+        map<char, int> mp;
+        priority_queue<pair<int, char>> pq;
+
+        for (int i = 0; i < s.length(); i++)
+            mp[s[i]]++;
+
+        for (auto it : mp)
+            pq.push({it.second, it.first});
+
+        string st = "";
+        while (!pq.empty()) {
+            for (int i = 0; i < pq.top().first; i++)
+                st += pq.top().second;
+
+            pq.pop();
         }
 
-        // Sort the characters based on their frequencies in decreasing order using compare function
-        sort(s.begin(), s.end(), [&](char a, char b) {
-            return compare(a, b, char_freq);
-        });
-
-        return s;
+        return st;
     }
 };
