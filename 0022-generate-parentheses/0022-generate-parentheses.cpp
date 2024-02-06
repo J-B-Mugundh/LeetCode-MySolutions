@@ -12,7 +12,6 @@ public:
         if(close < open)
             generate(ans, n, open, close + 1, cur + ")");
     }
-
     vector<string> generateParenthesis(int n) {
         vector<string> ans;
         generate(ans, n, 0, 0, "");
