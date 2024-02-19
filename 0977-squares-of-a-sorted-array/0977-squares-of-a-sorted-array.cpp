@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> sortedSquares(vector<int>& nums) {
+        ios_base::sync_with_stdio(false), cin.tie(nullptr), cout.tie(nullptr);
         int left = 0, right = nums.size() - 1;
         vector<int> ans;
         while(left <= right){
