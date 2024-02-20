@@ -7,11 +7,11 @@ public:
         while(s[n] == ' ')
             n--;
         
+        int start = n;
         while(n >= 0 && s[n] != ' ' ){
             n--;
-            cnt++;
         }
         
-        return cnt;
+        return start - n;
     }
 };
