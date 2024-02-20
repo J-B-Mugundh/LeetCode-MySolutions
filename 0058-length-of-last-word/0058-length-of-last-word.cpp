@@ -7,7 +7,7 @@ public:
         while(s[n] == ' ')
             n--;
         
-        while(s[n] != ' '){
+        while(n >= 0 && s[n] != ' ' ){
             n--;
             cnt++;
         }
