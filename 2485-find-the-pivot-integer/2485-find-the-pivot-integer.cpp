@@ -1,23 +1,21 @@
 class Solution {
 public:
     int pivotInteger(int n) {
-        if(n == 1) return 1;
-        int left = 2, right = n - 1;
-        int sl = left - 1, sr = right + 1;
+        int l = 1, r = n;
+        int ls = 0, rs = 0, total = n * (n + 1) / 2;
 
-        while(left <= right){
-            if(sl <= sr){
-                if(sl == sr && left == right) return left;
-                sl += left;
-                left += 1;
-                cout << "sl = " << sl << endl;
-            }
-            else if(sl > sr){
-                sr += right;
-                right -= 1;
-                cout << "sr = " << sr << endl;
-            }
+        while(l <= r){
+            int mid = (l + r) / 2;
+            ls = (mid * (mid + 1) / 2);
+            rs = total - ls + mid;
+            cout << "mid = " << mid << ", ls = " << ls << ", rs = " << rs << endl;
 
+            if(ls == rs)
+                return mid;
+            else if(ls < rs)
+                l = mid + 1;
+            else 
+                r = mid - 1;
         }
         return -1;
     }
