@@ -11,7 +11,7 @@ public:
         vector<int> ans;
         for(int i = 1; i <= n; i++){
             for(int j = i; j <= n; j++){
-                ans.push_back((prefix[j] - prefix[i - 1] + MOD) % MOD);
+                ans.push_back((prefix[j] - prefix[i - 1]) % MOD);
             }
         }
 
