@@ -12,6 +12,8 @@ public:
                 arrows += 1;
                 last = points[i][1];
             }
+            else
+                last = min(last, points[i][1]);
         }
         return arrows;
     }
