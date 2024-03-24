@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-duplicate-number">287. Find the Duplicate Number</a></h2><h3>Medium</h3><hr><p>Given an array of integers <code>nums</code> containing&nbsp;<code>n + 1</code> integers where each integer is in the range <code>[1, n]</code> inclusive.</p>
+<h2><a href="https://leetcode.com/problems/find-the-duplicate-number/?envType=daily-question&envId=2024-03-24">287. Find the Duplicate Number</a></h2><h3>Medium</h3><hr><p>Given an array of integers <code>nums</code> containing&nbsp;<code>n + 1</code> integers where each integer is in the range <code>[1, n]</code> inclusive.</p>
 
 <p>There is only <strong>one repeated number</strong> in <code>nums</code>, return <em>this&nbsp;repeated&nbsp;number</em>.</p>
 
@@ -18,6 +18,12 @@
 <strong>Input:</strong> nums = [3,1,3,4,2]
 <strong>Output:</strong> 3
 </pre>
+
+<p><strong class="example">Example 3:</strong></p>
+
+<pre>
+<strong>Input:</strong> nums = [3,3,3,3,3]
+<strong>Output:</strong> 3</pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
