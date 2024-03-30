@@ -8,7 +8,7 @@ private:
     // Helper function to count the number of subarrays with at most k distinct elements.
     int slidingWindowAtMost(vector<int>& nums, int distinctK) {
         // To store the occurrences of each element.
-        map<int, int> freqMap;
+        unordered_map<int, int> freqMap;
         int left = 0, totalCount = 0;
 
         // Right pointer of the sliding window iterates through the array.
