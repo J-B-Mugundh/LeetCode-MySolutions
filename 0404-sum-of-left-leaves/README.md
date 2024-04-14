@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/sum-of-left-leaves">404. Sum of Left Leaves</a></h2><h3>Easy</h3><hr><p>Given the <code>root</code> of a binary tree, return <em>the sum of all left leaves.</em></p>
+<h2><a href="https://leetcode.com/problems/sum-of-left-leaves/?envType=daily-question&envId=2024-04-14">404. Sum of Left Leaves</a></h2><h3>Easy</h3><hr><p>Given the <code>root</code> of a binary tree, return <em>the sum of all left leaves.</em></p>
 
 <p>A <strong>leaf</strong> is a node with no children. A <strong>left leaf</strong> is a leaf that is the left child of another node.</p>
 
