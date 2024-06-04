@@ -5,18 +5,18 @@ public:
         for(char c : s)
             mp[c]++;
 
-        int len = 0, minOdd = INT_MAX;
+        int len = 0, cnt = 0;
         for(auto it : mp){
             if(it.second % 2 == 0)
                 len += it.second;
             else{
                 len += it.second - 1;
-                minOdd = min(minOdd, it.second);
+                cnt++;
             }
         }
 
-        if (minOdd < INT_MAX)
-            return len+1;
+        if (cnt > 0)
+            return len + 1;
         return len;
     }
 };
