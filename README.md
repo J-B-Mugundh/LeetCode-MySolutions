@@ -5,6 +5,7 @@ This repository contains the my LeetCode solutions
 # Array
 |  |
 | ------- |
+| [1044-find-common-characters](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1044-find-common-characters) |
 | [1833-find-the-highest-altitude](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1833-find-the-highest-altitude) |
 # Prefix Sum
 |  |
@@ -20,6 +21,7 @@ This repository contains the my LeetCode solutions
 | ------- |
 | [0344-reverse-string](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0409-longest-palindrome) |
+| [1044-find-common-characters](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1044-find-common-characters) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Greedy
 |  |
@@ -30,3 +32,4 @@ This repository contains the my LeetCode solutions
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0409-longest-palindrome) |
+| [1044-find-common-characters](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1044-find-common-characters) |
