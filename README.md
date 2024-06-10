@@ -10,6 +10,7 @@ This repository contains the my LeetCode solutions
 | [1016-subarray-sums-divisible-by-k](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1044-find-common-characters) |
 | [1833-find-the-highest-altitude](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1833-find-the-highest-altitude) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 # Prefix Sum
 |  |
 | ------- |
