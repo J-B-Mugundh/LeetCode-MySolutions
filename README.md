@@ -6,6 +6,7 @@ This repository contains the my LeetCode solutions
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0648-replace-words) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -22,6 +23,7 @@ This repository contains the my LeetCode solutions
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0344-reverse-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
@@ -52,4 +54,5 @@ This repository contains the my LeetCode solutions
 # Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0523-continuous-subarray-sum) |
