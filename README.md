@@ -12,6 +12,7 @@ This repository contains the my LeetCode solutions
 | [1016-subarray-sums-divisible-by-k](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1217-relative-sort-array) |
 | [1833-find-the-highest-altitude](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 # Prefix Sum
@@ -48,6 +49,7 @@ This repository contains the my LeetCode solutions
 | [0648-replace-words](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0648-replace-words) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1044-find-common-characters) |
+| [1217-relative-sort-array](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1217-relative-sort-array) |
 # Trie
 |  |
 | ------- |
@@ -61,7 +63,9 @@ This repository contains the my LeetCode solutions
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1217-relative-sort-array) |
 # Counting Sort
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1217-relative-sort-array) |
