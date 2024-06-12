@@ -6,6 +6,7 @@ This repository contains the my LeetCode solutions
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0648-replace-words) |
@@ -25,6 +26,7 @@ This repository contains the my LeetCode solutions
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0344-reverse-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -62,6 +64,7 @@ This repository contains the my LeetCode solutions
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0075-sort-colors) |
 | [1137-height-checker](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1217-relative-sort-array) |
 # Counting Sort
