@@ -17,6 +17,7 @@ This repository contains the my LeetCode solutions
 | [1217-relative-sort-array](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1217-relative-sort-array) |
 | [1833-find-the-highest-altitude](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Prefix Sum
 |  |
 | ------- |
@@ -44,6 +45,7 @@ This repository contains the my LeetCode solutions
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0409-longest-palindrome) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Hash Table
 |  |
@@ -69,6 +71,7 @@ This repository contains the my LeetCode solutions
 | [0075-sort-colors](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0075-sort-colors) |
 | [1137-height-checker](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Counting Sort
 |  |
 | ------- |
