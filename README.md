@@ -34,6 +34,7 @@ This repository contains the my LeetCode solutions
 | [0189-rotate-array](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0633-sum-of-square-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -69,6 +70,7 @@ This repository contains the my LeetCode solutions
 | ------- |
 | [0189-rotate-array](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0633-sum-of-square-numbers) |
 # Sorting
 |  |
 | ------- |
@@ -88,3 +90,7 @@ This repository contains the my LeetCode solutions
 |  |
 | ------- |
 | [0502-ipo](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0502-ipo) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0633-sum-of-square-numbers) |
