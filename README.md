@@ -6,6 +6,7 @@ This repository contains the my LeetCode solutions
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0229-majority-element-ii) |
@@ -98,3 +99,11 @@ This repository contains the my LeetCode solutions
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0633-sum-of-square-numbers) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0053-maximum-subarray) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0053-maximum-subarray) |
