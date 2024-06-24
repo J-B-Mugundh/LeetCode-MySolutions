@@ -8,6 +8,7 @@ This repository contains the my LeetCode solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0283-move-zeroes) |
 | [0502-ipo](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0523-continuous-subarray-sum) |
@@ -55,6 +56,7 @@ This repository contains the my LeetCode solutions
 # Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0229-majority-element-ii) |
 | [0409-longest-palindrome](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0409-longest-palindrome) |
 | [0523-continuous-subarray-sum](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0648-replace-words) |
@@ -75,6 +77,7 @@ This repository contains the my LeetCode solutions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0229-majority-element-ii) |
 | [0502-ipo](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1137-height-checker) |
@@ -83,6 +86,7 @@ This repository contains the my LeetCode solutions
 # Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0229-majority-element-ii) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1217-relative-sort-array) |
