@@ -1,25 +1,35 @@
 class Solution {
 public:
     int leastInterval(vector<char>& tasks, int n) {
-        // freq array to store the frequency of each task
-        int freq[26] = {0};
-        int maxCount = 0;
-
-        // Count the frequency of each task and find the maximum frequency
-        for (char task : tasks) {
-            freq[task - 'A']++;
-            maxCount = max(maxCount, freq[task - 'A']);
+        unordered_map<char, int> freq;
+        for(char ch : tasks)
+            freq[ch]++;
+        
+        priority_queue<int> pq;
+        for(auto it : freq){
+            pq.push(it.second);
         }
 
-        // Calculate the total time needed for execution
-        int time = (maxCount - 1) * (n + 1);
-        for (int f : freq) {
-            if (f == maxCount) {
-                time++;
+        int cnt = 0;
+
+        while(!pq.empty()){
+            int cycle = n + 1;
+            int tasksCount = 0;
+            vector<int> temp;
+
+            while(cycle-- && !pq.empty()){
+                if(pq.top() > 1)
+                    temp.push_back(pq.top() - 1);
+                pq.pop();
+                tasksCount++;
             }
-        }
 
-        // Return the maximum of total time needed and the length of the task list
-        return max((int)tasks.size(), time);
+            for(int num : temp){
+                pq.push(num);
+            }
+
+            cnt += (pq.empty() ? tasksCount : n + 1);
+        }
+        return cnt;
     }
 };
