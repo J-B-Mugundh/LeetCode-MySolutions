@@ -112,6 +112,7 @@ This repository contains the my LeetCode solutions
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0039-combination-sum) |
 | [0506-relative-ranks](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1014-k-closest-points-to-origin) |
@@ -179,4 +180,8 @@ This repository contains the my LeetCode solutions
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0355-design-twitter) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
