@@ -10,7 +10,7 @@ public:
             sum += numExchange;
             numBottles += 1;
         }
-        if(numBottles > 0) sum += numBottles;
+        sum += numBottles;
         return sum;
     }
 };
