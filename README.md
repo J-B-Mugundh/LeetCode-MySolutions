@@ -149,6 +149,7 @@ This repository contains the my LeetCode solutions
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1014-k-closest-points-to-origin) |
+| [1642-water-bottles](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1642-water-bottles) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -186,4 +187,8 @@ This repository contains the my LeetCode solutions
 | ------- |
 | [0039-combination-sum](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0040-combination-sum-ii) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
