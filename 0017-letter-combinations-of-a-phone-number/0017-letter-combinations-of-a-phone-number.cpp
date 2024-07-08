@@ -1,6 +1,6 @@
 class Solution {
 public:
-        unordered_map<char, string> numMap = {
+    unordered_map<char, string> mp = {
             {'2', "abc"},
             {'3', "def"},
             {'4', "ghi"},
@@ -9,24 +9,22 @@ public:
             {'7', "pqrs"},
             {'8', "tuv"},
             {'9', "wxyz"}
-        };
-    void backtrack(string &digits, string combinations, vector<string> &res, int index)
-    {
-        if(index == digits.size())
-        {
-            res.push_back(combinations);
+    };
+    
+    void backtrack(int ind, string digits, string str, vector<string> &ans){
+        if(ind == digits.size()){
+            ans.push_back(str);
             return;
         }
-
-        char digit = digits[index];
-
-        for(char letter : numMap[digit])
-            backtrack(digits, combinations + letter, res, index + 1);
+        for(char ch : mp[digits[ind]]){
+            backtrack(ind + 1, digits, str + ch, ans);
+        }
     }
     vector<string> letterCombinations(string digits) {
         if(digits.size() == 0) return {};
-        vector<string> res;
-        backtrack(digits, "", res, 0);
-        return res;
+        vector<string> ans;
+        string str = "";
+        backtrack(0, digits, str, ans);
+        return ans;
     }
 };
