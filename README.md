@@ -206,6 +206,7 @@ This repository contains the my LeetCode solutions
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -214,6 +215,7 @@ This repository contains the my LeetCode solutions
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -222,4 +224,12 @@ This repository contains the my LeetCode solutions
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0124-binary-tree-maximum-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
