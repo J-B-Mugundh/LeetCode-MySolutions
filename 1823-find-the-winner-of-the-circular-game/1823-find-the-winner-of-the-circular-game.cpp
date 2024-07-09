@@ -1,15 +1,10 @@
 class Solution {
 public:
-    int findTheWinner(int n, int k) {
-        vector<int> frnds;
-        for(int i = 1; i <= n; i++){
-            frnds.push_back(i);
-        }
-        int i = 0;
-        while(frnds.size() > 1){
-            i = (i + k - 1) % frnds.size();
-            frnds.erase(frnds.begin() + i);
-        }
-        return frnds[0];
+    int winnerHelper(int n, int k) {
+        if (n == 1) return 0;
+        return (winnerHelper(n - 1, k) + k) % n;
     }
+
+    int findTheWinner(int n, int k) { return winnerHelper(n, k) + 1; }
+    
 };
