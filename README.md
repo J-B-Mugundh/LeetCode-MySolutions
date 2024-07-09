@@ -121,6 +121,7 @@ This repository contains the my LeetCode solutions
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1762-furthest-building-you-can-reach](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1762-furthest-building-you-can-reach) |
+| [1803-average-waiting-time](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Greedy
 |  |
@@ -195,6 +196,7 @@ This repository contains the my LeetCode solutions
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1642-water-bottles) |
+| [1803-average-waiting-time](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String
 |  |
