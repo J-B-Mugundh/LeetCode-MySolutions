@@ -121,6 +121,7 @@ This repository contains the my LeetCode solutions
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1762-furthest-building-you-can-reach](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1762-furthest-building-you-can-reach) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Greedy
 |  |
 | ------- |
@@ -150,6 +151,7 @@ This repository contains the my LeetCode solutions
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1642-water-bottles](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -193,6 +195,7 @@ This repository contains the my LeetCode solutions
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String
 |  |
 | ------- |
@@ -209,4 +212,12 @@ This repository contains the my LeetCode solutions
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0102-binary-tree-level-order-traversal) |
+## Recursion
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
