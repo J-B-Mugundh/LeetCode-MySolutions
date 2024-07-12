@@ -1,46 +1,49 @@
 class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
-        int n = grid.size();
-        int m = grid[0].size();
-        queue<pair<pair<int, int>, int>> rotten; // <<row, col>, time>
-        int vis[n][m], cntFresh = 0;
-        for(int i = 0; i < n; i++)
-        {
-            for(int j = 0; j < m; j++)
-            {
-                if(grid[i][j] == 2)
-                {
-                    rotten.push({{i, j}, 0});
+        int n = grid.size(), m = grid[0].size();
+        vector<vector<int>> vis(n, vector<int> (m, 0)); 
+        queue<pair<pair<int, int>, int>> q; // {{r, c}, t}
+        int cntFresh = 0;
+        for(int i = 0; i < n; i++){
+            for(int j = 0; j < m; j++){
+                if(grid[i][j] == 2){
+                    q.push({{i, j}, 0});
                     vis[i][j] = 2;
                 }
-                else vis[i][j] = 0;
-                if(grid[i][j] == 1) cntFresh++;
+                else
+                    vis[i][j] = 0;
+                
+                if(grid[i][j] == 1)
+                    cntFresh++;
             }
         }
-        int tmax = 0, cnt = 0;
-        int drow[] = {-1, 0, 0, 1}, dcol[] = {0, 1, -1, 0};
-        while(!rotten.empty()){
-            int r = rotten.front().first.first;
-            int c = rotten.front().first.second;
-            int t = rotten.front().second;
 
-            tmax = max(t, tmax);
-            rotten.pop();
-
+        int cnt = 0;
+        int dr[] = {0, 0, 1, -1};
+        int dc[] = {-1, 1, 0, 0};
+        int tmax = 0;
+        while(!q.empty()){
+            int r = q.front().first.first;
+            int c = q.front().first.second;
+            int t = q.front().second;
+            q.pop();
+            tmax = max(tmax, t);
             for(int i = 0; i < 4; i++){
-                int nrow = r + drow[i];
-                int mcol = c + dcol[i];
+                int nrow = r + dr[i];
+                int ncol = c + dc[i];
 
-                if(nrow >= 0 && nrow < n && mcol >= 0 && mcol < m && vis[nrow][mcol] == 0 && grid[nrow][mcol] == 1){
-                    vis[nrow][mcol] = 2;
-                    rotten.push({{nrow, mcol}, t + 1});
+                if(nrow >= 0 && nrow < n && ncol >= 0 && ncol < m && vis[nrow][ncol] == 0 && grid[nrow][ncol] == 1){
+                    q.push({{nrow, ncol}, t + 1});
+                    vis[nrow][ncol] = 2;
                     cnt++;
                 }
             }
         }
 
         if(cnt != cntFresh) return -1;
+
         return tmax;
+
     }
 };
