@@ -117,6 +117,7 @@ This repository contains the my LeetCode solutions
 | [0506-relative-ranks](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1014-k-closest-points-to-origin) |
+| [1036-rotting-oranges](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1127-last-stone-weight) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -215,6 +216,7 @@ This repository contains the my LeetCode solutions
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1036-rotting-oranges](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -238,4 +240,8 @@ This repository contains the my LeetCode solutions
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
