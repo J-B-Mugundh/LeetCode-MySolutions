@@ -3,7 +3,7 @@ public:
     vector<int> findOrder(int n, vector<vector<int>>& prerequisites) {
         vector<int> adj[n];
         for(auto it : prerequisites){
-            adj[it[1]].push_back(it[0]);
+            adj[it[0]].push_back(it[1]);
         }
 
         vector<int> indegree(n, 0);
@@ -33,6 +33,8 @@ public:
 	                q.push(it);
 	        }
 	    }
+
+        reverse(topo.begin(), topo.end());
 	    
 	    if (topo.size() == n) return topo;
         return {};
