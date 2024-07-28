@@ -7,10 +7,10 @@ public:
 
         for(int i = 0; i < n; i++){
             sum += nums[i];
-            cout << i << ": " << sum << endl;
+            cout << "sum: " << i << ": " << sum << endl;
             if(prefix.find(sum - k) != prefix.end())
                 cnt += prefix[sum - k];
-            cout << i << ": " << cnt << endl;
+            cout << "cnt: " <<  i << ": " << cnt << endl;
             if(prefix.find(sum) != prefix.end())
                 prefix[sum] += 1;
             else
