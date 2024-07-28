@@ -114,6 +114,7 @@ This repository contains the my LeetCode solutions
 | ------- |
 | [0039-combination-sum](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0040-combination-sum-ii) |
+| [0303-range-sum-query-immutable](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0303-range-sum-query-immutable) |
 | [0506-relative-ranks](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1014-k-closest-points-to-origin) |
@@ -188,6 +189,7 @@ This repository contains the my LeetCode solutions
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0355-design-twitter) |
 ## Backtracking
 |  |
@@ -254,4 +256,8 @@ This repository contains the my LeetCode solutions
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0210-course-schedule-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
