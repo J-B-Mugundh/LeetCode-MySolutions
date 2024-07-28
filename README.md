@@ -126,6 +126,7 @@ This repository contains the my LeetCode solutions
 | [1762-furthest-building-you-can-reach](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1762-furthest-building-you-can-reach) |
 | [1803-average-waiting-time](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Greedy
 |  |
 | ------- |
@@ -209,6 +210,7 @@ This repository contains the my LeetCode solutions
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Tree
 |  |
 | ------- |
@@ -263,4 +265,5 @@ This repository contains the my LeetCode solutions
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0560-subarray-sum-equals-k) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
