@@ -116,6 +116,7 @@ This repository contains the my LeetCode solutions
 | [0040-combination-sum-ii](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0040-combination-sum-ii) |
 | [0303-range-sum-query-immutable](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0303-range-sum-query-immutable) |
 | [0506-relative-ranks](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0506-relative-ranks) |
+| [0560-subarray-sum-equals-k](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1036-rotting-oranges) |
@@ -173,6 +174,7 @@ This repository contains the my LeetCode solutions
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0355-design-twitter](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0355-design-twitter) |
+| [0560-subarray-sum-equals-k](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0621-task-scheduler) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -260,4 +262,5 @@ This repository contains the my LeetCode solutions
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
