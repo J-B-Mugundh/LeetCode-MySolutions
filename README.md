@@ -114,6 +114,7 @@ This repository contains the my LeetCode solutions
 | ------- |
 | [0039-combination-sum](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0064-minimum-path-sum) |
 | [0303-range-sum-query-immutable](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0303-range-sum-query-immutable) |
 | [0506-relative-ranks](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0506-relative-ranks) |
@@ -244,6 +245,7 @@ This repository contains the my LeetCode solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0064-minimum-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
@@ -274,5 +276,14 @@ This repository contains the my LeetCode solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0042-trapping-rain-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0160-intersection-of-two-linked-lists) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
