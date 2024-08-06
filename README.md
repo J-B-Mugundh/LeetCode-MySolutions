@@ -175,6 +175,7 @@ This repository contains the my LeetCode solutions
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0160-intersection-of-two-linked-lists](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0355-design-twitter](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0355-design-twitter) |
 | [0560-subarray-sum-equals-k](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0621-task-scheduler) |
@@ -188,6 +189,7 @@ This repository contains the my LeetCode solutions
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0355-design-twitter](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0355-design-twitter) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Design
@@ -269,4 +271,8 @@ This repository contains the my LeetCode solutions
 | [0303-range-sum-query-immutable](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0560-subarray-sum-equals-k) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2691-count-vowel-strings-in-ranges) |
+## Two Pointers
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
