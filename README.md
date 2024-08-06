@@ -114,6 +114,7 @@ This repository contains the my LeetCode solutions
 | ------- |
 | [0039-combination-sum](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0040-combination-sum-ii) |
+| [0064-minimum-path-sum](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0064-minimum-path-sum) |
 | [0303-range-sum-query-immutable](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0303-range-sum-query-immutable) |
 | [0506-relative-ranks](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0560-subarray-sum-equals-k) |
@@ -241,6 +242,7 @@ This repository contains the my LeetCode solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0064-minimum-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
@@ -251,6 +253,7 @@ This repository contains the my LeetCode solutions
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0064-minimum-path-sum) |
 | [1036-rotting-oranges](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1036-rotting-oranges) |
 ## Graph
 |  |
