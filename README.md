@@ -115,6 +115,7 @@ This repository contains the my LeetCode solutions
 | [0039-combination-sum](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0064-minimum-path-sum) |
 | [0303-range-sum-query-immutable](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0303-range-sum-query-immutable) |
 | [0506-relative-ranks](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0506-relative-ranks) |
@@ -132,6 +133,7 @@ This repository contains the my LeetCode solutions
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0621-task-scheduler) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -246,6 +248,7 @@ This repository contains the my LeetCode solutions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0064-minimum-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
