@@ -217,6 +217,7 @@ This repository contains the my LeetCode solutions
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Tree
 |  |
 | ------- |
@@ -289,4 +290,8 @@ This repository contains the my LeetCode solutions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 <!---LeetCode Topics End-->
