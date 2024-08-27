@@ -1,23 +1,22 @@
 class Solution {
 public:
     vector<int> singleNumber(vector<int>& nums) {
-        int xor2no = 0;
-        for (int num : nums) {
-            xor2no ^= num;
+        long long Xor = 0;
+
+        for(int n : nums)
+            Xor = Xor ^ n;
+        
+        // Find the rightMost bit that's different in both elements that appear exactly once
+        int retainedLeftBits = (Xor & (Xor - 1));
+        int rightMostBit = retainedLeftBits ^ Xor;
+
+        int bucket1 = 0, bucket2 = 0;
+        for(int n : nums){
+            if(n & rightMostBit)
+                bucket1 ^= n;
+            else
+                bucket2 ^= n;
         }
-
-        // Cast xor2no to unsigned to avoid undefined behavior with -INT_MIN
-        unsigned int lowestBit = xor2no & -(unsigned int)xor2no;
-
-        vector<int> result(2, 0);
-        for (int num : nums) {
-            if ((lowestBit & num) == 0) {
-                result[0] ^= num;
-            } else {
-                result[1] ^= num;
-            }
-        }
-
-        return result;
+        return {bucket1, bucket2};
     }
 };
