@@ -117,6 +117,7 @@ This repository contains the my LeetCode solutions
 | [0042-trapping-rain-water](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0064-minimum-path-sum) |
+| [0260-single-number-iii](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0260-single-number-iii) |
 | [0303-range-sum-query-immutable](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0303-range-sum-query-immutable) |
 | [0506-relative-ranks](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0560-subarray-sum-equals-k) |
@@ -294,4 +295,8 @@ This repository contains the my LeetCode solutions
 |  |
 | ------- |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0260-single-number-iii](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
