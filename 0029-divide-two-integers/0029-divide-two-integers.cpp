@@ -5,40 +5,29 @@ public:
         if (dividend == INT_MIN && divisor == -1)
             return INT_MAX;
 
-        if (dividend == INT_MIN && divisor == 1)
-            return INT_MIN;
-
-        // Determine the sign of the result
-        bool negative = (dividend < 0) ^ (divisor < 0);
+        bool isPositive = !((dividend < 0) ^ (divisor < 0));
 
         // Convert both dividend and divisor to positive
-        long long absDividend = abs((long long)dividend);
-        long long absDivisor = abs((long long)divisor);
+        long long n = abs((long long)dividend);
+        long long d = abs((long long)divisor);
 
-        // Initialize the quotient to 0
-        long long quotient = 0;
+        long long ans = 0;
 
-        // Repeatedly subtract divisor from dividend until dividend becomes less than divisor
-        while (absDividend >= absDivisor) {
-            long long tempDivisor = absDivisor;
-            long long multiple = 1;
-
-            // Find the maximum multiple of divisor that can be subtracted from dividend
-            while (absDividend >= (tempDivisor << 1)) {
-                tempDivisor <<= 1;
-                multiple <<= 1;
+        while (n >= d) {
+            int cnt = 0;
+            while(n >= (d << (cnt + 1))){
+                cnt += 1;
             }
-
-            // Subtract the multiple of divisor from dividend
-            absDividend -= tempDivisor;
-            quotient += multiple;
+            ans += (1 << cnt);
+            n -= (d << cnt);
         }
 
-        // Handle the sign of the quotient
-        if (negative)
-            quotient = -quotient;
+        if(ans > INT_MAX && isPositive) 
+            return INT_MAX;
+        if(ans > INT_MAX && !isPositive)
+            return INT_MIN;
 
-        // Check for overflow and return the result
-        return (quotient >= INT_MAX) ? INT_MAX : quotient;
+        return isPositive ? ans : -1 * ans;
+
     }
 };
