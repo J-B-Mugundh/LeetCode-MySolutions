@@ -160,6 +160,7 @@ This repository contains the my LeetCode solutions
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0029-divide-two-integers) |
 | [1014-k-closest-points-to-origin](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1642-water-bottles](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -298,5 +299,6 @@ This repository contains the my LeetCode solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0029-divide-two-integers) |
 | [0260-single-number-iii](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
