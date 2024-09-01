@@ -237,6 +237,7 @@ This repository contains the my LeetCode solutions
 | [0102-binary-tree-level-order-traversal](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0210-course-schedule-ii](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1036-rotting-oranges) |
 ## Binary Tree
@@ -266,6 +267,7 @@ This repository contains the my LeetCode solutions
 | [0124-binary-tree-maximum-path-sum](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0210-course-schedule-ii](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Matrix
 |  |
@@ -277,6 +279,7 @@ This repository contains the my LeetCode solutions
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0210-course-schedule-ii) |
+| [0801-is-graph-bipartite](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0801-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
@@ -313,4 +316,8 @@ This repository contains the my LeetCode solutions
 |  |
 | ------- |
 | [3534-count-almost-equal-pairs-i](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/3534-count-almost-equal-pairs-i) |
+## Union Find
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
