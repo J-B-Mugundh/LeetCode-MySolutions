@@ -1,57 +1,23 @@
 class Solution {
 public:
-    // // Using BFS
-    // bool isBipartite(vector<vector<int>>& graph) {
-    //     int n = graph.size();
-    //     vector<int> color(n, -1);
-    //     queue<int> q;
-    //     // if it has more than one component
-    //     for(int i = 0; i < n; i++){
-    //         if(color[i] == -1){
-    //             color[i] = 0;
-    //             q.push(i);
-
-    //             while(!q.empty()){
-    //                 int node = q.front();
-    //                 q.pop();
-
-    //                 for(auto it : graph[node]){
-    //                     if(color[it] == -1) {
-    //                         color[it] = !color[node];
-    //                         q.push(it);
-    //                     }
-    //                     else if(color[it] == color[node]) 
-    //                         return false;
-    //                 }
-    //             }
-    //         }
-    //     }
-
-    //     return true;
-    // }
-
-    // DFS
-    bool dfs(int node, int col, vector<int> &color, vector<vector<int>> &graph){
-        color[node] = col;
+    bool dfs(int node, vector<vector<int>> &graph, vector<int> &color, int val){
+        color[node] = val;
 
         for(auto it : graph[node]){
             if(color[it] == -1){
-                if(!dfs(it, !col, color, graph)) return false;
-            }
-            else if(color[it] == col)
+                if(dfs(it, graph, color, !val) == false) return false;
+            }else if(color[it] == val)
                 return false;
         }
-
         return true;
     }
-    bool isBipartite(vector<vector<int>>& graph){
+    bool isBipartite(vector<vector<int>>& graph) {
         int n = graph.size();
         vector<int> color(n, -1);
 
         for(int i = 0; i < n; i++){
             if(color[i] == -1){
-                if(!dfs(i, 0, color, graph)) 
-                    return false;
+                if(dfs(i, graph, color, 0) == false) return false;
             }
         }
         return true;
