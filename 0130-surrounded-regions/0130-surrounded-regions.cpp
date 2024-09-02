@@ -29,20 +29,6 @@ public:
                     board[i][j] = 'X';
             }
         }
-        // Capture the surrounded regions (O -> X)
-        for(int i = 0; i < n; i++){
-            for(int j = 0; j < m; j++){
-                if(board[i][j] == 'O')
-                    board[i][j] = 'X';
-            }
-        }
-
-        // Un capture the unsurrounded regions (T -> O)
-        for(int i = 0; i < n; i++){
-            for(int j = 0; j < m; j++){
-                if(board[i][j] == 'T')
-                    board[i][j] = 'O';
-            }
-        }
+        
     }
 };
