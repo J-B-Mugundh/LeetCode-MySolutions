@@ -126,6 +126,7 @@ This repository contains the my LeetCode solutions
 | [0733-flood-fill](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0733-flood-fill) |
 | [1014-k-closest-points-to-origin](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1036-rotting-oranges) |
+| [1046-max-consecutive-ones-iii](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1127-last-stone-weight) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -295,6 +296,7 @@ This repository contains the my LeetCode solutions
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0560-subarray-sum-equals-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1046-max-consecutive-ones-iii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Two Pointers
 |  |
@@ -313,6 +315,7 @@ This repository contains the my LeetCode solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1046-max-consecutive-ones-iii) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Bit Manipulation
 |  |
@@ -328,4 +331,8 @@ This repository contains the my LeetCode solutions
 | ------- |
 | [0130-surrounded-regions](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0130-surrounded-regions) |
 | [0801-is-graph-bipartite](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0801-is-graph-bipartite) |
+## Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
