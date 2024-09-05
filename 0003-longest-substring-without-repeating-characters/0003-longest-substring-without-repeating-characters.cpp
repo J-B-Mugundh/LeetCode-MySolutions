@@ -12,6 +12,7 @@ public:
             maxLen = max(maxLen, r - l + 1); 
             mp[s[r]] = r;
             r++;
+            if(n - l - 1 < maxLen) break;
         }
 
         return maxLen;
