@@ -9,11 +9,8 @@ public:
             hash[s[r] - 'A']++;
             maxFreq = max(maxFreq, hash[s[r] - 'A']);
 
-            while((r - l + 1) - maxFreq > k){
+            if((r - l + 1) - maxFreq > k){
                 hash[s[l] - 'A']--;
-                maxFreq = 0;
-                for(int i = 0; i < 26; i++)
-                    maxFreq = max(maxFreq, hash[i]);
                 l++;
             }
             maxLen = max(maxLen, r - l + 1);
