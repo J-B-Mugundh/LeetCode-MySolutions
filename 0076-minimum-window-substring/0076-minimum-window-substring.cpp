@@ -1,32 +1,27 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-        if (!t.size()) return "";
+        int n = s.size(), l = 0, r = 0, minLen = INT_MAX, startIndex = -1;
+        vector<int> freq(256, 0);
+        int cnt = 0;
+        for(char c : t)
+            freq[c]++;
 
-        unordered_map<char, int> T, W;
-        for (char c : t) T[c]++;
+        while(r < n){
+            if(freq[s[r]] > 0) cnt++;
+            freq[s[r]]--;
 
-        int have = 0, need = T.size();
-        int l = 0, rStart = -1, rLen = INT_MAX;
-
-        for (int r = 0; r < s.size(); r++) {
-            char c = s[r];
-            W[c]++;
-
-            if (T.count(c) && W[c] == T[c]) have++;
-
-            while (have == need) { 
-                if (r - l + 1 < rLen) {
-                    rLen = r - l + 1;
-                    rStart = l;
+            while(cnt == t.size()){
+                if(r - l + 1 < minLen){
+                    minLen = r - l + 1;
+                    startIndex = l;
                 }
-
-                W[s[l]]--; 
-                if (T.count(s[l]) && W[s[l]] < T[s[l]]) have--;
+                freq[s[l]]++;
+                if(freq[s[l]] > 0) cnt -= 1;
                 l++;
             }
+            r++;
         }
-
-        return rLen == INT_MAX ? "" : s.substr(rStart, rLen);
+        return startIndex == -1 ? "" : s.substr(startIndex, minLen);
     }
 };
