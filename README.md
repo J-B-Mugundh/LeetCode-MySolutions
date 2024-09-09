@@ -195,6 +195,7 @@ This repository contains the my LeetCode solutions
 | [0621-task-scheduler](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0621-task-scheduler) |
 | [0940-fruit-into-baskets](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [3534-count-almost-equal-pairs-i](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/3534-count-almost-equal-pairs-i) |
 ## Counting
@@ -233,6 +234,7 @@ This repository contains the my LeetCode solutions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0424-longest-repeating-character-replacement) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Tree
@@ -325,6 +327,7 @@ This repository contains the my LeetCode solutions
 | [0424-longest-repeating-character-replacement](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Bit Manipulation
 |  |
