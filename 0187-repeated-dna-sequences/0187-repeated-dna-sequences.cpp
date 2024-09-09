@@ -7,7 +7,7 @@ public:
 
         unordered_map<string, int> mp;
 
-        for(int i = 0; i < n - 9; i++){
+        for(int i = 0; i <= n - 10; i++){
             string t = s.substr(i, 10);
             mp[t]++;
         }
