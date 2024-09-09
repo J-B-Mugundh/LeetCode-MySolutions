@@ -189,6 +189,7 @@ This repository contains the my LeetCode solutions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0076-minimum-window-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0187-repeated-dna-sequences](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0187-repeated-dna-sequences) |
 | [0355-design-twitter](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0560-subarray-sum-equals-k) |
@@ -233,6 +234,7 @@ This repository contains the my LeetCode solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -324,6 +326,7 @@ This repository contains the my LeetCode solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -333,6 +336,7 @@ This repository contains the my LeetCode solutions
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0029-divide-two-integers) |
+| [0187-repeated-dna-sequences](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0187-repeated-dna-sequences) |
 | [0260-single-number-iii](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0260-single-number-iii) |
 ## Enumeration
 |  |
@@ -347,4 +351,12 @@ This repository contains the my LeetCode solutions
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1046-max-consecutive-ones-iii) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
