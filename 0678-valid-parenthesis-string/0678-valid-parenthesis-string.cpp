@@ -1,35 +1,30 @@
 class Solution {
-public: 
+public:
     bool checkValidString(string s) {
-        stack<int> openBrackets;
-        stack<int> asterisks;
+        int openCount = 0;
+        int closeCount = 0;
+        int length = s.length() - 1;
 
-        for (int i = 0; i < s.length(); i++) {
-            char ch = s[i];
-
-            if (ch == '(') {
-                openBrackets.push(i);
-            } else if (ch == '*') {
-                asterisks.push(i);
+        for (int i = 0; i <= length; i++) {
+            // Count open parentheses or asterisks
+            if (s[i] == '(' || s[i] == '*') {
+                openCount++;
             } else {
-                if (!openBrackets.empty()) {
-                    openBrackets.pop();
-                } else if (!asterisks.empty()) {
-                    asterisks.pop();
-                } else {
-                    return false;
-                }
+                openCount--;
             }
-        }
-
-        while (!openBrackets.empty() && !asterisks.empty()) {
-            if (openBrackets.top() > asterisks.top()) {
+            
+            // Count close parentheses or asterisks
+            if (s[length - i] == ')' || s[length - i] == '*') {
+                closeCount++;
+            } else {
+                closeCount--;
+            }
+            
+            // If at any point open count or close count goes negative, the string is invalid
+            if (openCount < 0 || closeCount < 0) {
                 return false;
             }
-            openBrackets.pop();
-            asterisks.pop();
         }
-
-        return openBrackets.empty();
+        return true;
     }
 };
