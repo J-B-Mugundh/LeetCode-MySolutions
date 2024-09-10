@@ -3,41 +3,30 @@ public:
     bool canBeValid(string s, string locked) {
         if(s.size() % 2) return false;
         
-        for(int i = 0; i < s.size(); i++){
-            if(locked[i] == '0')
-                s[i] = '*';
-        }
+        int openCount = 0;
+        int closeCount = 0;
+        int length = s.length() - 1;
 
-        stack<int> openBrackets;
-        stack<int> asterisks;
-
-        for (int i = 0; i < s.length(); i++) {
-            char ch = s[i];
-            if (ch == '(') {
-                openBrackets.push(i);
-            } else if (ch == '*') {
-                asterisks.push(i);
+        for (int i = 0; i <= length; i++) {
+            // Count open parentheses or asterisks
+            if (s[i] == '(' || locked[i] == '0') {
+                openCount++;
             } else {
-                if (!openBrackets.empty()) {
-                    openBrackets.pop();
-                } else if (!asterisks.empty()) {
-                    asterisks.pop();
-                } else {
-                    return false;
-                }
+                openCount--;
             }
-        }
-
-        while (!openBrackets.empty() && !asterisks.empty()) {
-            if (openBrackets.top() > asterisks.top()) {
+            
+            // Count close parentheses or asterisks
+            if (s[length - i] == ')' || locked[length - i] == '0') {
+                closeCount++;
+            } else {
+                closeCount--;
+            }
+            
+            // If at any point open count or close count goes negative, the string is invalid
+            if (openCount < 0 || closeCount < 0) {
                 return false;
             }
-            openBrackets.pop();
-            asterisks.pop();
         }
-
-        if(openBrackets.size() % 2) return false;
-
-        return openBrackets.empty();
+        return true;
     }
 };
