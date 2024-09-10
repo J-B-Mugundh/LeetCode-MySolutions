@@ -141,6 +141,7 @@ This repository contains the my LeetCode solutions
 | ------- |
 | [0055-jump-game](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0678-valid-parenthesis-string) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1762-furthest-building-you-can-reach](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1762-furthest-building-you-can-reach) |
@@ -236,6 +237,7 @@ This repository contains the my LeetCode solutions
 | [0076-minimum-window-substring](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0678-valid-parenthesis-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
@@ -276,6 +278,7 @@ This repository contains the my LeetCode solutions
 | [0055-jump-game](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0064-minimum-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0678-valid-parenthesis-string](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0678-valid-parenthesis-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -317,6 +320,7 @@ This repository contains the my LeetCode solutions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0042-trapping-rain-water) |
+| [0678-valid-parenthesis-string](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
 | ------- |
