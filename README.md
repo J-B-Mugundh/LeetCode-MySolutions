@@ -116,6 +116,7 @@ This repository contains the my LeetCode solutions
 | [0040-combination-sum-ii](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0130-surrounded-regions) |
 | [0260-single-number-iii](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0260-single-number-iii) |
@@ -149,6 +150,7 @@ This repository contains the my LeetCode solutions
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0056-merge-intervals) |
 | [0506-relative-ranks](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1014-k-closest-points-to-origin) |
