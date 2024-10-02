@@ -128,6 +128,7 @@
 | [1036-rotting-oranges](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1127-last-stone-weight) |
+| [1256-rank-transform-of-an-array](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1762-furthest-building-you-can-reach](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1762-furthest-building-you-can-reach) |
@@ -153,6 +154,7 @@
 | [0621-task-scheduler](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1256-rank-transform-of-an-array](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [3534-count-almost-equal-pairs-i](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/3534-count-almost-equal-pairs-i) |
@@ -198,6 +200,7 @@
 | [0621-task-scheduler](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0621-task-scheduler) |
 | [0940-fruit-into-baskets](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1256-rank-transform-of-an-array](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [3534-count-almost-equal-pairs-i](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/3534-count-almost-equal-pairs-i) |
